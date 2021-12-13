@@ -1,0 +1,5 @@
+json_input: sap_press.json
+input_attribute: headline
+label_attribute: label
+save_to: my_model.pkl
+embedding_config: distilbert-base-uncased
